@@ -10,6 +10,10 @@ Imagens do exercício de Coherent Noise
 ![](neighbour-bottom-right.bmp)
 
 # 8 imagens mexendo nas propriedades
+#### Valores referência de base:
+- Frequency 3.0
+- Octave Count 2.0
+- Persistence 0.5
 
 ### Frequency zerado
 ![](decreasedFrequency.bmp)
@@ -34,3 +38,11 @@ Imagens do exercício de Coherent Noise
 
 ### Tudo triplicado
 ![](tripleEverything.bmp)
+
+# 2 imagens mexendo nos gradientes
+
+### Água roxa
+![](purpleSeas.bmp)
+
+### Lava e montanhas
+![](lavaMountains.bmp)
